@@ -147,7 +147,7 @@ python expense_tracker.py
 
 **Hemant Sahu**
 - 📧 hs948316@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/mr-hemant-sahu-0032b8301)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mr-hemant-sahu-0032b8301)
 - 🐙 [GitHub](https://github.com/Hemant-sahu-creator)
 
 ---
